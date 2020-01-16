@@ -39,7 +39,7 @@ p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
-  font-size: 1.1em;
+  font-size: 0.9em;
 }
 ul.dot {
 list-style:circle;
@@ -146,12 +146,12 @@ list-style:circle;
 
 .sidebar-nav > .sidebar-brand
 {
-  font-size:18px
+  font-size:22px
 }
 
 .sidebar-nav > .sidebar-brand > h3
 {
-  font-size:22px;
+  font-size:18px;
   font-weight:100;
   color:#5d5f67
 }
