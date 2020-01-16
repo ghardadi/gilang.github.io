@@ -469,8 +469,8 @@ time
 
 .recent-posts h1
 {
-  padding-bottom:20px;
-  font-size:1.6em
+  padding-bottom:10px;
+  font-size:1.4em
 }
 
 .project-container
@@ -485,7 +485,7 @@ time
   background-size: cover;
   z-index:-4;
   margin-top:-55px;
-  margin-bottom:10px;
+  margin-bottom:20px;
   color:#fff
 }
 
