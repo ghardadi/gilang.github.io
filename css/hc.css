@@ -293,7 +293,7 @@ pre
 
 #welcome-greeting > h1
 {
-  font-size:3em;
+  font-size:2em;
   font-weight:700;
   color:#d90006;
   line-height:130%
@@ -301,7 +301,7 @@ pre
 
 #welcome-greeting h1:hover
 {
-  font-size:3em;
+  font-size:2em;
   font-weight:700;
   color:#2d4440;
   transition:all .5s ease 0
@@ -309,7 +309,7 @@ pre
 
 #welcome-greeting > h2
 {
-  font-size:2em;
+  font-size:1.5em;
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
