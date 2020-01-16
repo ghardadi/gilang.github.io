@@ -485,7 +485,7 @@ time
   background-size: cover;
   z-index:-4;
   margin-top:-55px;
-  margin-bottom:30px;
+  margin-bottom:20px;
   color:#fff
 }
 
@@ -496,7 +496,7 @@ time
   font-weight:bolder;
   color:#fff;
   text-align:center;
-  padding-top:20px
+  padding-top:10px
 }
 
 .project-container p
