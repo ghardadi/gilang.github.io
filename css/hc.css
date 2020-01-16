@@ -62,7 +62,7 @@ list-style:circle;
 {
   width:80%;
   padding-right:0;
-  padding-top:10px
+  padding-top:20px
 }
 
 .container a
@@ -288,7 +288,7 @@ pre
 #welcome-greeting
 {
   width:100%;
-  padding-top:5px
+  padding-top:0px
 }
 
 #welcome-greeting > h1
