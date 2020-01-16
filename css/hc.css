@@ -62,7 +62,7 @@ list-style:circle;
 {
   width:80%;
   padding-right:0;
-  padding-top:30px
+  padding-top:15px
 }
 
 .container a
@@ -168,7 +168,7 @@ list-style:circle;
   font-weight:750;
   color:#6c7077;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  font-size:1.1em;
+  font-size:1.15em;
   text-shadow:1px 1px #fff
 }
 
@@ -574,7 +574,7 @@ time
 
 .card
 {
-  margin-top:30px
+  margin-top:20px
 }
 .card img
 {
