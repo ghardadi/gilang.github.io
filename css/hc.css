@@ -73,7 +73,7 @@ list-style:circle;
 
 #wrapper
 {
-  padding-left:260px;
+  padding-left:255px;
   transition:all .5s ease 0
 }
 
@@ -91,8 +91,8 @@ list-style:circle;
 #sidebar-wrapper
 {
   margin-left:-260px;
-  left:260px;
-  width:260px;
+  left:255px;
+  width:255px;
   background:#f8f8f8;
   position:fixed;
   height:100%;
@@ -108,7 +108,7 @@ list-style:circle;
 {
   position:absolute;
   top:0;
-  width:260px;
+  width:255px;
   list-style:none;
   margin:0;
   padding:30px 0 0
@@ -229,20 +229,20 @@ pre
 #social-wrapper
 {
   color:#5c646f;
-  padding:0px 0
+  padding:5px 0
 }
 
 #social-wrapper a
 {
   font-size:15px;
-  text-indent:10px
+  text-indent:15px
 }
 
 #social-wrapper li
 {
   font-size:15px;
   text-indent:0;
-  word-spacing:10px
+  word-spacing:15px
 }
 
 #social-wrapper a:hover
@@ -717,12 +717,12 @@ time
   }
 #wrapper.active {
   position: relative;
-  left: 260px;
+  left: 255px;
 }
 
 #wrapper.active #sidebar-wrapper {
-  left: 260px;
-  width: 260px;
+  left: 255px;
+  width: 255px;
   transition: all 0.7s ease 0s;
 }
 
