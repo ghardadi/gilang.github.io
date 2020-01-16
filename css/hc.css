@@ -39,7 +39,7 @@ p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 ul.dot {
 list-style:circle;
@@ -583,7 +583,7 @@ time
 }
 .letter p
 {
-  font-size:1.1em;
+  font-size:1.8em;
   font-weight:lighter;
   color:#737373;
   text-shadow:1px 1px #fff
