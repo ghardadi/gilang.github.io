@@ -146,12 +146,12 @@ list-style:circle;
 
 .sidebar-nav > .sidebar-brand
 {
-  font-size:22px
+  font-size:18px
 }
 
 .sidebar-nav > .sidebar-brand > h3
 {
-  font-size:18px;
+  font-size:22px;
   font-weight:100;
   color:#5d5f67
 }
