@@ -117,7 +117,7 @@ list-style:circle;
 .sidebar-nav li
 {
   line-height:30px;
-  text-indent:25px;
+  text-indent:30px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
   color:#9c9c9c;
@@ -146,12 +146,12 @@ list-style:circle;
 
 .sidebar-nav > .sidebar-brand
 {
-  font-size:25px
+  font-size:22px
 }
 
 .sidebar-nav > .sidebar-brand > h3
 {
-  font-size:20px;
+  font-size:18px;
   font-weight:100;
   color:#5d5f67
 }
@@ -165,10 +165,10 @@ list-style:circle;
 
 .brand
 {
-  font-weight:800;
+  font-weight:700;
   color:#6c7077;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  font-size:1.2em;
+  font-size:1.1em;
   text-shadow:1px 1px #fff
 }
 
