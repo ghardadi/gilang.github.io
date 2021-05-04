@@ -62,7 +62,7 @@ list-style:circle;
 {
   width:80%;
   padding-right:0;
-  padding-top:30px
+  padding-top:20px
 }
 
 .container a
@@ -117,7 +117,7 @@ list-style:circle;
 .sidebar-nav li
 {
   line-height:30px;
-  text-indent:40px;
+  text-indent:30px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
   color:#9c9c9c;
@@ -146,12 +146,12 @@ list-style:circle;
 
 .sidebar-nav > .sidebar-brand
 {
-  font-size:20px
+  font-size:22px
 }
 
 .sidebar-nav > .sidebar-brand > h3
 {
-  font-size:15px;
+  font-size:18px;
   font-weight:100;
   color:#5d5f67
 }
@@ -165,10 +165,10 @@ list-style:circle;
 
 .brand
 {
-  font-weight:800;
+  font-weight:750;
   color:#6c7077;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
-  font-size:1.4em;
+  font-size:1.15em;
   text-shadow:1px 1px #fff
 }
 
@@ -229,20 +229,20 @@ pre
 #social-wrapper
 {
   color:#5c646f;
-  padding:10px 0
+  padding:5px 0
 }
 
 #social-wrapper a
 {
   font-size:15px;
-  text-indent:20px
+  text-indent:15px
 }
 
 #social-wrapper li
 {
   font-size:15px;
   text-indent:0;
-  word-spacing:10px
+  word-spacing:15px
 }
 
 #social-wrapper a:hover
@@ -254,8 +254,7 @@ pre
 .showcase-wrapper
 {
   width:100%;
-  height:80vh;
-  min-height:500px;
+  height:20vmax;
   margin-top:-30px;
   box-shadow:inset 0 -10px 5px -2px rgba(119,119,119,0.35);
   -moz-box-shadow:inset 0 -10px 5px -2px rgba(119,119,119,0.35);
@@ -289,12 +288,12 @@ pre
 #welcome-greeting
 {
   width:100%;
-  padding-top:5px
+  padding-top:-10px
 }
 
 #welcome-greeting > h1
 {
-  font-size:3em;
+  font-size:2.3em;
   font-weight:700;
   color:#d90006;
   line-height:130%
@@ -302,7 +301,7 @@ pre
 
 #welcome-greeting h1:hover
 {
-  font-size:3em;
+  font-size:2.3em;
   font-weight:700;
   color:#2d4440;
   transition:all .5s ease 0
@@ -310,7 +309,7 @@ pre
 
 #welcome-greeting > h2
 {
-  font-size:2em;
+  font-size:1.5em;
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
@@ -471,7 +470,7 @@ time
 .recent-posts h1
 {
   padding-bottom:10px;
-  font-size:1.6em
+  font-size:1.4em
 }
 
 .project-container
@@ -486,7 +485,7 @@ time
   background-size: cover;
   z-index:-4;
   margin-top:-55px;
-  margin-bottom:30px;
+  margin-bottom:10px;
   color:#fff
 }
 
@@ -497,7 +496,7 @@ time
   font-weight:bolder;
   color:#fff;
   text-align:center;
-  padding-top:20px
+  padding-top:10px
 }
 
 .project-container p
@@ -549,7 +548,7 @@ time
 .project-post h4
 {
   font-weight:200;
-  font-size:1em
+  font-size:1.1em
 }
 .user-card
 {
@@ -583,7 +582,7 @@ time
 }
 .letter p
 {
-  font-size:1.1em;
+  font-size:1.2em;
   font-weight:lighter;
   color:#737373;
   text-shadow:1px 1px #fff
@@ -763,7 +762,7 @@ time
 .showcase-wrapper {
   width: 100%;
   height: 50%;
-  font-size: small;
+  font-size: medium;
 }
 
 }
